@@ -17,11 +17,11 @@ Polyvalent, à l’affut de nouvelles techniques et technologies.
 
 # Contactez-moi !
 
-- **[Mon portfolio]**(https://elliotschmit.github.io/portfolio/)
-- **[Instagram]**(https://www.instagram.com/elliotschmit/)
-- **[Youtube]**(https://www.youtube.com/@elliotschmit)
-- **[LinkedIn]**(https://www.linkedin.com/in/elliot-schmit-5372b1441/)
-- **[Courriel]**(mailto:schmit0709@gmail.com)
+- [Mon portfolio](https://elliotschmit.github.io/portfolio/)
+- [Instagram](https://www.instagram.com/elliotschmit/)
+- [Youtube](https://www.youtube.com/@elliotschmit)
+- [LinkedIn](https://www.linkedin.com/in/elliot-schmit-5372b1441/)
+- [Courriel](mailto:schmit0709@gmail.com)
 <!--
 **ElliotSchmit/ElliotSchmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
