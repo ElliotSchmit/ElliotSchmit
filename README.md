@@ -14,6 +14,7 @@ Polyvalent, à l’affut de nouvelles techniques et technologies.
 ![CSS](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/css.png)
 ![JavaScript](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/js.png)
 ![PHP](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/php.png)
+![Python](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/python.png)
 
 # Contactez-moi !
 
