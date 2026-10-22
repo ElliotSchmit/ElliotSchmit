@@ -1,6 +1,6 @@
-## Elliot Schmit
+# Elliot Schmit
 
-# À propos
+## À propos
 
 Le côté logique de la programmation et le côté créatif du design.
 
@@ -8,7 +8,7 @@ Une capacité d’adaptation permettant de jongler entre plusieurs tâches ou pr
 
 Polyvalent, à l’affut de nouvelles techniques et technologies. 
 
-# Mes skills
+## Mes skills
 
 ![HTML](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/html.png)
 ![CSS](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/css.png)
@@ -16,7 +16,7 @@ Polyvalent, à l’affut de nouvelles techniques et technologies.
 ![PHP](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/php.png)
 ![Python](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/python.png)
 
-# Contactez-moi !
+## Contactez-moi !
 
 - [Mon portfolio](https://elliotschmit.github.io/portfolio/)
 - [Instagram](https://www.instagram.com/elliotschmit/)
