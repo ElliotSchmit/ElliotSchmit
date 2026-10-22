@@ -1,5 +1,18 @@
-## Hi there 👋
+## Elliot Schmit
 
+#À propos
+
+Le côté logique de la programmation et le côté créatif du design.
+
+Une capacité d’adaptation permettant de jongler entre plusieurs tâches ou projets simultanément.
+
+Polyvalent, à l’affut de nouvelles techniques et technologies. 
+
+#Mes skills
+![HTML](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/html.png)
+![CSS](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/css.png)
+![JavaScript](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/js.png)
+![PHP](https://github.com/ElliotSchmit/es_portfolio/blob/main/src/assets/images/php.png)
 <!--
 **ElliotSchmit/ElliotSchmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
